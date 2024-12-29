@@ -1,0 +1,29 @@
+.content-table {
+  border-collapse: collapse;
+  margin: 30px auto;
+  padding: 20px;
+  border: none;
+}
+
+th, td {
+  padding: 10px 15px;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}  
+
+tr:nth-child(odd) {
+  background-color: #f9f7ee;
+}
+
+tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
+tr:hover {
+  background-color: #f1f1f1;
+}
+
+td:last-child, th:last-child {
+  border-right: none;
+}

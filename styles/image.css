@@ -1,0 +1,33 @@
+.mainpage-mainphoto {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.attraction img {
+    width: 45%;
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+}
+
+.food-item img {
+    width: 30%;
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+}
+
+.andante-tour-side img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+.caminho-map {
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    display: block;
+    margin: 25px auto;
+  }
