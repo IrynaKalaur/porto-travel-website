@@ -10,7 +10,7 @@ This project is an informational resource for people traveling to Porto. It util
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/IrynaKalaur/porto-travel-website.git
    ```
 2. Open the `index.html` file in your browser to explore the site.
 
